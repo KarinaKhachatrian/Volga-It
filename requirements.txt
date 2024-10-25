@@ -1,0 +1,9 @@
+Flask
+Flask-JWT-Extended
+Flask-RESTful
+SQLAlchemy
+Flask-SQLAlchemy
+psycopg2-binary
+python-dotenv
+Werkzeug
+flask-restx
